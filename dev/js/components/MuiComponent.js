@@ -16,7 +16,7 @@ import {
   ZTechContentSubHeader,
   ZTechButton,
   ZTechTabs
-} from "zylotech-mui";
+} from "mui-components";
 
 class MuiComponent extends React.Component {
   constructor() {

@@ -43,6 +43,6 @@
     "webpack-dev-middleware": "^1.6.1",
     "webpack-dev-server": "^2.7.1",
     "webpack-hot-middleware": "^2.11.0",
-    "zylotech-mui": "git+https://github.com/sanjeet05/mui-components.git"
+    "mui-components": "git+https://github.com/sanjeet05/mui-components.git"
   }
 }
